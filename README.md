@@ -3,7 +3,7 @@
 **Automatización, políticas y releases con GitHub Actions**
 
 Nivel: intermedio en Git y GitHub, principiante absoluto en Actions
-Duración: 2 horas
+Duración: 2,5 horas
 Formato: laboratorio guiado, autocontenido, de principio a fin
 
 ---
